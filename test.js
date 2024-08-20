@@ -3,3 +3,5 @@ const greet = () => {
 };
 
 greet();
+
+console.log("add something of issue-test");
